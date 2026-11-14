@@ -11,3 +11,10 @@ Repo thực hành nhánh, pull request và merge trên GitHub.
 5. Merge sau khi kiểm tra xong và xóa nhánh đã hoàn thành.
 
 Repo này dùng để thực hành; không chứa mã ứng dụng production.
+
+## Checklist trước khi merge
+
+- Đọc toàn bộ diff và kiểm tra đúng nhánh đích.
+- Không đưa token, mật khẩu hoặc dữ liệu cá nhân vào commit.
+- Chạy kiểm tra phù hợp với phần thay đổi.
+- Sau merge, xác nhận nội dung trên nhánh chính.
